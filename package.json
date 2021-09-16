@@ -1,0 +1,11 @@
+{
+  "name": "cursed-control-flow",
+  "version": "0.1.0",
+  "description": "A library implementing standard control flow operators without relying on any of them.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Hawkbat",
+  "license": "MIT"
+}
